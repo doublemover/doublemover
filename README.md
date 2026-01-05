@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @doublemover
-- 👀 I’m interested in Lemmings and Music Production
-- 🌱 I’m currently learning es2025 javascript, rust, and how to enhance coding agents
+- 👋 Hi, I’m @doublemover, the Chief Slop Officer at SlopLab. 
+- 👀 I’m currently interested in Lemmings, Music Production, Objective-C 3.0, the Weather, and Hybrid Semantic Code Search Indexes
+- 🌱 I’m playing around with how to best enhance coding agents and programming language design
 - 💞️ I’m looking to collaborate on creative projects and issues with significant bounties (>$500)
 - 📫 How to reach me: 2xmvr on discord
 - 😄 Pronouns: They/Them
